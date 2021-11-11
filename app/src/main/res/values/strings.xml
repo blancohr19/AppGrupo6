@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App-Grupo-6</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_btn_Login">LOGIN</string>
+    <string name="txt_email_ex">email@example.com</string>
+    <string name="txt_btn_SignUp">Sign Up</string>
+</resources>
