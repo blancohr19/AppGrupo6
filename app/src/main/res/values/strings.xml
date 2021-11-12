@@ -5,4 +5,12 @@
     <string name="txt_btn_Login">LOGIN</string>
     <string name="txt_email_ex">email@example.com</string>
     <string name="txt_btn_SignUp">Sign Up</string>
+    <string name="labelnombres">Name</string>
+    <string name="labelapellidos">Lastname</string>
+    <string name="labelid">Nit(Document Number)</string>
+    <string name="labelcorreo">Email</string>
+    <string name="labeltelefono">Phone</string>
+    <string name="labelpass">Password</string>
+    <string name="labelbtnregister">Sign up</string>
+    <string name="labelbasicinfo">Basic Information</string>
 </resources>
