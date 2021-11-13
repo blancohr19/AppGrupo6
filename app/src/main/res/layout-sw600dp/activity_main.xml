@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/gray"
     tools:context=".MainActivity">
 
 
@@ -21,7 +20,8 @@
             android:layout_width="match_parent"
             android:layout_height="139dp"
             android:layout_weight="1"
-            app:srcCompat="@drawable/ic_login_img" />
+
+            />
     </LinearLayout>
 
     <LinearLayout

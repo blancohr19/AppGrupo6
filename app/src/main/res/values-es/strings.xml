@@ -13,6 +13,8 @@
     <string name="labelpass">Contraseña</string>
     <string name="labelbtnregister">Registrarme</string>
     <string name="labelbasicinfo">Informacion Basica</string>
+    <string name="labelPolitica">Aceptas los terminos y politicas de privacidad</string>
+
 
 
 </resources>

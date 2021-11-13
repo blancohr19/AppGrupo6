@@ -13,4 +13,6 @@
     <string name="labelpass">Password</string>
     <string name="labelbtnregister">Sign up</string>
     <string name="labelbasicinfo">Basic Information</string>
+    <string name="labelPolitica">By clicking check, you agree to our Terms, Data Policy </string>
+
 </resources>

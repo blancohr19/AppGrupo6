@@ -14,40 +14,42 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:orientation="horizontal"
         >
         <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="100dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="80dp"
             android:layout_marginTop="12dp"
             android:src="@drawable/ic_login_img">
 
         </ImageView>
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:text="@string/labelbasicinfo"
+            android:gravity="center"
+            android:textStyle="bold"
+            />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="25dp"
-        android:layout_marginTop="40dp"
+        android:layout_margin="15dp"
         android:orientation="vertical"
         >
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textSize="30sp"
-            android:text="@string/labelbasicinfo"
-            android:gravity="center"
-
-            />
-
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18sp"
+            android:textSize="15sp"
             android:hint="@string/labelnombres"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="5dp"
+            android:id="@+id/txtName"
             />
 
 
@@ -55,9 +57,10 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18sp"
-            android:layout_marginTop="20dp"
+            android:textSize="15sp"
+            android:layout_marginTop="5dp"
             android:hint="@string/labelapellidos"
+            android:id="@+id/txtLastname"
             />
 
 
@@ -65,9 +68,11 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18sp"
-            android:layout_marginTop="20dp"
+            android:textSize="15sp"
+            android:layout_marginTop="5dp"
             android:hint="@string/labelid"
+            android:inputType="number"
+            android:id="@+id/txtNit"
             />
 
 
@@ -75,9 +80,10 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18sp"
-            android:layout_marginTop="20dp"
+            android:textSize="15sp"
+            android:layout_marginTop="5dp"
             android:hint="@string/labelcorreo"
+            android:id="@+id/txtEmail"
             />
 
 
@@ -85,27 +91,42 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18sp"
-            android:layout_marginTop="20dp"
+            android:textSize="15sp"
+            android:layout_marginTop="5dp"
             android:hint="@string/labeltelefono"
+            android:inputType="number"
+            android:id="@+id/txtPhone"
             />
 
-
-        <EditText
-
+        <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="18sp"
-            android:layout_marginTop="20dp"
-            android:hint="@string/labelpass"
+            android:layout_marginTop="10dp"
+            app:endIconMode="password_toggle">
 
-            />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/labelpass"
+                android:textSize="10sp"
+                android:inputType="textPassword"
+                android:id="@+id/txtPass"/>
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <CheckBox
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:id="@+id/inCheck"
+            android:textSize="10sp"
+            android:text="@string/labelPolitica" />
         <Button
             android:layout_width="match_parent"
-            android:layout_marginTop="40dp"
-            android:textSize="25sp"
+            android:textSize="15sp"
             android:layout_height="wrap_content"
-            android:text="@string/labelbtnregister" />
+            android:text="@string/labelbtnregister"
+            android:onClick="register"
+            />
 
 
 

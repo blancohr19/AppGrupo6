@@ -17,5 +17,9 @@ class MainActivity : AppCompatActivity() {
         val intento = Intent(this,LoginActivity::class.java)
         startActivity(intento)
     }
+    fun OnRegister(botonRegis: View){
+        val intento = Intent(this,RegisterActivity::class.java)
+        startActivity(intento)
+    }
 
 }
