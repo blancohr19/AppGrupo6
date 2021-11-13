@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\blanc\\Downloads\\Ciclo 4 Apps Moviles\\Grupo-6-Desarrollo-Apps-Moviles\\AppGrupo6\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\blanc\\Downloads\\AppGrupo6\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\blanc\\.gradle\\caches\\transforms-3\\1c390a32efec58e61f90f60d655d7977\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

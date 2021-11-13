@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\blanc\\Downloads\\Ciclo 4 Apps Moviles\\Grupo-6-Desarrollo-Apps-Moviles\\AppGrupo6\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "C:\\Users\\blanc\\Downloads\\AppGrupo6\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
                     "source": "C:\\Users\\blanc\\.gradle\\caches\\transforms-3\\fb0c8bb3a9efcf8598631db06e07b955\\transformed\\core-1.3.2\\res\\values-ms\\values-ms.xml",

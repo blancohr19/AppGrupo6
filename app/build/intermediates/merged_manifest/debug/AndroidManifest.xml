@@ -19,6 +19,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.AppGrupo6" >
         <activity
+            android:name="com.example.app_grupo_6.InicioActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.app_grupo_6.RegisterActivity"
             android:exported="false" />
         <activity

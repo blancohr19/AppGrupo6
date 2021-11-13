@@ -1029,6 +1029,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color gray
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color material_blue_grey_800
@@ -1130,6 +1131,7 @@ color purple_200
 color purple_500
 color purple_700
 color radiobutton_themeable_attribute_color
+color red_500
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -1838,6 +1840,7 @@ id easeInOut
 id easeOut
 id editTextCorreo
 id edit_query
+id edtPassL
 id elastic
 id end
 id endToStart
@@ -1877,6 +1880,7 @@ id ignore
 id ignoreRequest
 id image
 id imageView
+id inCheck
 id info
 id invisible
 id inward
@@ -2089,6 +2093,12 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txtEmail
+id txtLastname
+id txtName
+id txtNit
+id txtPass
+id txtPhone
 id unchecked
 id uniform
 id unlabeled
@@ -2161,8 +2171,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_inicio
 layout activity_login
 layout activity_main
+layout activity_register
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2291,6 +2303,15 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string labelPolitica
+string labelapellidos
+string labelbasicinfo
+string labelbtnregister
+string labelcorreo
+string labelid
+string labelnombres
+string labelpass
+string labeltelefono
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection

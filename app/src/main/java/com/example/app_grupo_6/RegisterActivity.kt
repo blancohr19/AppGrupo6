@@ -52,7 +52,7 @@ class RegisterActivity : AppCompatActivity() {
             startActivity(redirectLogin)
         }else{
             //mensaje en pantalla
-            Toast.makeText(this,"Campos vacios",Toast.LENGTH_LONG).show()
+            Toast.makeText(this,"Error Validación",Toast.LENGTH_LONG).show()
         }
     }
 
@@ -66,7 +66,7 @@ class RegisterActivity : AppCompatActivity() {
             //esta vacio
             valido=false
             //Si el campo de texto está dentro de un inputlayout se puede usar esto para que muestre en rojo el el error
-            txtName!!.error=""
+            txtName!!.error="Requerido"
         }else{
             var name : String = txtName!!.text.toString()
             name = name.replace(" ","")
@@ -79,7 +79,7 @@ class RegisterActivity : AppCompatActivity() {
         if(TextUtils.isEmpty(txtLastname!!.text.toString())){
             //esta vacio
             valido=false
-            txtLastname!!.error=""
+            txtLastname!!.error="Requerido"
         }else{
             var lastn : String = txtLastname!!.text.toString()
             lastn = lastn.replace(" ","")
@@ -91,7 +91,7 @@ class RegisterActivity : AppCompatActivity() {
         if(TextUtils.isEmpty(txtEmail!!.text.toString())){
             //esta vacio
             valido=false
-            txtEmail!!.error=""
+            txtEmail!!.error="Requerido"
         }else{
             var email : String = txtEmail!!.text.toString()
 
@@ -103,24 +103,25 @@ class RegisterActivity : AppCompatActivity() {
         if(TextUtils.isEmpty(txtNit!!.text.toString())){
             //esta vacio
             valido=false
-            txtNit!!.error=""
+            txtNit!!.error="Requerido"
         }
         if(TextUtils.isEmpty(txtPhone!!.text.toString())){
             //esta vacio
             valido=false
-            txtPhone!!.error=""
+            txtPhone!!.error="Requerido"
         }
         if(TextUtils.isEmpty(txtPass!!.text.toString())){
             //esta vacio
             valido=false
 
-            txtPass!!.error=""
+            txtPass!!.error="Requerido"
         }else{
             var pass : String = txtPass!!.text.toString()
             if(!pass_patter.matcher(pass).matches()){
                 valido=false;
                 txtPass!!.error="No cumple con el formato"
-                Toast.makeText(this,"Revise Formato del password",Toast.LENGTH_SHORT).show()
+                Toast.makeText(this,"Contraseña mínimo 8 caracteres, letras mayúsculas y minúscula, " +
+                        "numero y un carácter especial que puede ser (@#\$%^&+=.)  ",Toast.LENGTH_LONG).show()
             }
         }
 
