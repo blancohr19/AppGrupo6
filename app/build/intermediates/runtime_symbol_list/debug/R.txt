@@ -26,12 +26,19 @@ int anim design_bottom_sheet_slide_in 0x7f010018
 int anim design_bottom_sheet_slide_out 0x7f010019
 int anim design_snackbar_in 0x7f01001a
 int anim design_snackbar_out 0x7f01001b
+int anim fragment_fast_out_extra_slow_in 0x7f01001f
 int anim mtrl_bottom_sheet_slide_in 0x7f01001c
 int anim mtrl_bottom_sheet_slide_out 0x7f01001d
 int anim mtrl_card_lowers_interpolator 0x7f01001e
 int animator design_appbar_state_list_animator 0x7f020000
 int animator design_fab_hide_motion_spec 0x7f020001
 int animator design_fab_show_motion_spec 0x7f020002
+int animator fragment_close_enter 0x7f020014
+int animator fragment_close_exit 0x7f020015
+int animator fragment_fade_enter 0x7f020016
+int animator fragment_fade_exit 0x7f020017
+int animator fragment_open_enter 0x7f020018
+int animator fragment_open_exit 0x7f020019
 int animator linear_indeterminate_line1_head_interpolator 0x7f020003
 int animator linear_indeterminate_line1_tail_interpolator 0x7f020004
 int animator linear_indeterminate_line2_head_interpolator 0x7f020005
@@ -1773,6 +1780,9 @@ int id beginning 0x7f080053
 int id blocking 0x7f080054
 int id bottom 0x7f080055
 int id bounce 0x7f080056
+int id btn_details1 0x7f0801b0
+int id btn_details2 0x7f0801b1
+int id btn_details3 0x7f0801b2
 int id btn_login 0x7f080057
 int id btn_signup 0x7f080058
 int id buttonPanel 0x7f080059
@@ -1858,6 +1868,8 @@ int id fixed 0x7f0800a7
 int id flip 0x7f0800a8
 int id floating 0x7f0800a9
 int id forever 0x7f0800aa
+int id fragment_container_view 0x7f0801a9
+int id fragment_container_view_tag 0x7f0801aa
 int id ghost_view 0x7f0800ab
 int id ghost_view_holder 0x7f0800ac
 int id gone 0x7f0800ad
@@ -1952,6 +1964,7 @@ int id mtrl_picker_text_input_range_start 0x7f080105
 int id mtrl_picker_title_text 0x7f080106
 int id mtrl_view_tag_bottom_padding 0x7f080107
 int id multiply 0x7f080108
+int id my_toolbar 0x7f0801a8
 int id navigation_header_container 0x7f080109
 int id never 0x7f08010a
 int id noScroll 0x7f08010b
@@ -2026,6 +2039,7 @@ int id snackbar_text 0x7f08014f
 int id snap 0x7f080150
 int id snapMargins 0x7f080151
 int id spacer 0x7f080152
+int id special_effects_controller_view_tag 0x7f0801ab
 int id spline 0x7f080153
 int id split_action_bar 0x7f080154
 int id spread 0x7f080155
@@ -2104,7 +2118,11 @@ int id unlabeled 0x7f08019d
 int id up 0x7f08019e
 int id useLogo 0x7f08019f
 int id view_offset_helper 0x7f0801a0
+int id view_tree_lifecycle_owner 0x7f0801ac
+int id view_tree_saved_state_registry_owner 0x7f0801ad
+int id view_tree_view_model_store_owner 0x7f0801ae
 int id visible 0x7f0801a1
+int id visible_removing_fragment_view_tag 0x7f0801af
 int id withText 0x7f0801a2
 int id withinBounds 0x7f0801a3
 int id wrap 0x7f0801a4
@@ -2190,6 +2208,8 @@ int layout design_navigation_menu 0x7f0b002b
 int layout design_navigation_menu_item 0x7f0b002c
 int layout design_text_input_end_icon 0x7f0b002d
 int layout design_text_input_start_icon 0x7f0b002e
+int layout fragment_details 0x7f0b0072
+int layout fragment_lista 0x7f0b0073
 int layout material_chip_input_combo 0x7f0b002f
 int layout material_clock_display 0x7f0b0030
 int layout material_clock_display_divider 0x7f0b0031
@@ -2370,9 +2390,13 @@ int string search_menu_title 0x7f0e006b
 int string status_bar_notification_info_overflow 0x7f0e006c
 int string txt_btn_Login 0x7f0e006d
 int string txt_btn_SignUp 0x7f0e006e
+int string txt_buy 0x7f0e0073
 int string txt_email 0x7f0e006f
 int string txt_email_ex 0x7f0e0070
+int string txt_inicio 0x7f0e0072
+int string txt_ordes 0x7f0e0075
 int string txt_password 0x7f0e0071
+int string txt_sell 0x7f0e0074
 int style AlertDialog_AppCompat 0x7f0f0000
 int style AlertDialog_AppCompat_Light 0x7f0f0001
 int style AndroidThemeColorAccentYellow 0x7f0f0002
@@ -3910,6 +3934,13 @@ int[] styleable ForegroundLinearLayout { 0x01010109, 0x01010200, 0x7f030170 }
 int styleable ForegroundLinearLayout_android_foreground 0
 int styleable ForegroundLinearLayout_android_foregroundGravity 1
 int styleable ForegroundLinearLayout_foregroundInsidePadding 2
+int[] styleable Fragment { 0x01010003, 0x010100d0, 0x010100d1 }
+int styleable Fragment_android_name 0
+int styleable Fragment_android_id 1
+int styleable Fragment_android_tag 2
+int[] styleable FragmentContainerView { 0x01010003, 0x010100d1 }
+int styleable FragmentContainerView_android_name 0
+int styleable FragmentContainerView_android_tag 1
 int[] styleable GradientColor { 0x0101019d, 0x0101019e, 0x010101a1, 0x010101a2, 0x010101a3, 0x010101a4, 0x01010201, 0x0101020b, 0x01010510, 0x01010511, 0x01010512, 0x01010513 }
 int styleable GradientColor_android_startColor 0
 int styleable GradientColor_android_endColor 1

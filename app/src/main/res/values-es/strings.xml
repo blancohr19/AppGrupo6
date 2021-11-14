@@ -14,7 +14,10 @@
     <string name="labelbtnregister">Registrarme</string>
     <string name="labelbasicinfo">Informacion Basica</string>
     <string name="labelPolitica">Aceptas los terminos y politicas de privacidad</string>
-
+    <string name="txt_inicio">Bienvenido</string>
+    <string name="txt_sell">VENDER</string>
+    <string name="txt_buy">COMPRAR</string>
+    <string name="txt_ordes">MIS PEDIDOS</string>
 
 
 </resources>
