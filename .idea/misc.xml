@@ -15,10 +15,56 @@
         <entry key="..\:/Users/blanc/Downloads/Ciclo 4 Apps Moviles/Grupo-6-Desarrollo-Apps-Moviles/AppGrupo6/app/src/main/res/layout-land/activity_main.xml" value="0.14479166666666668" />
         <entry key="..\:/Users/blanc/Downloads/Ciclo 4 Apps Moviles/Grupo-6-Desarrollo-Apps-Moviles/AppGrupo6/app/src/main/res/layout/activity_login.xml" value="0.12590579710144928" />
         <entry key="..\:/Users/blanc/Downloads/Ciclo 4 Apps Moviles/Grupo-6-Desarrollo-Apps-Moviles/AppGrupo6/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-land/activity_inicio.xml" value="0.17372134038800705" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-land/activity_login.xml" value="0.17372134038800705" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-land/activity_main.xml" value="0.17372134038800705" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-land/activity_register.xml" value="0.17372134038800705" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-land/fragment_details.xml" value="0.17372134038800705" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-land/fragment_lista.xml" value="0.17372134038800705" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp-land/activity_inicio.xml" value="0.36891385767790263" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp-land/activity_login.xml" value="0.36891385767790263" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp-land/activity_main.xml" value="0.36891385767790263" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp-land/activity_register.xml" value="0.36891385767790263" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp-land/fragment_details.xml" value="0.36891385767790263" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp-land/fragment_lista.xml" value="0.36891385767790263" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp/activity_inicio.xml" value="0.4722222222222222" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp/activity_login.xml" value="0.4722222222222222" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp/activity_main.xml" value="0.4722222222222222" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp/activity_register.xml" value="0.4925" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp/fragment_details.xml" value="0.4925" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw480dp/fragment_lista.xml" value="0.4925" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp-land/activity_inicio.xml" value="0.3012232415902141" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp-land/activity_login.xml" value="0.3012232415902141" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp-land/activity_main.xml" value="0.3012232415902141" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp-land/activity_register.xml" value="0.3012232415902141" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp-land/fragment_details.xml" value="0.3012232415902141" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp-land/fragment_lista.xml" value="0.3012232415902141" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp/activity_inicio.xml" value="0.384765625" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.3814102564102564" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.3814102564102564" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp/activity_register.xml" value="0.3814102564102564" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp/fragment_details.xml" value="0.384765625" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw600dp/fragment_lista.xml" value="0.384765625" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp-land/activity_inicio.xml" value="0.1318607764390897" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp-land/activity_login.xml" value="0.1318607764390897" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp-land/activity_main.xml" value="0.1318607764390897" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp-land/activity_register.xml" value="0.1318607764390897" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp-land/fragment_lista.xml" value="0.1318607764390897" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp/activity_inicio.xml" value="0.15390625" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp/activity_login.xml" value="0.15390625" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp/activity_main.xml" value="0.15390625" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp/activity_register.xml" value="0.15390625" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout-sw720dp/fragment_lista.xml" value="0.15390625" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout/activity_inicio.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout/activity_login.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout/activity_register.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout/fragment_details.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/AppGrupo6/app/src/main/res/layout/fragment_lista.xml" value="0.20520833333333333" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

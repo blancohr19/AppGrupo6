@@ -6,61 +6,61 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml
+8-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml
+9-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:5:5-30:19
+11-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:5:5-30:19
 12        android:allowBackup="true"
-12-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.3.2] C:\Users\blanc\.gradle\caches\transforms-3\fb0c8bb3a9efcf8598631db06e07b955\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.3.2] C:\Users\usuario\AndroidStudioProjects\caches\transforms-3\fb0c8bb3a9efcf8598631db06e07b955\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:7:9-43
+15-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:8:9-41
+16-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:9:9-54
+17-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:10:9-35
+18-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/Theme.AppGrupo6" >
-20-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:11:9-47
+20-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:11:9-47
 21        <activity
-21-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:12:9-14:40
+21-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:12:9-14:40
 22            android:name="com.example.app_grupo_6.InicioActivity"
-22-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:13:13-43
+22-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:13:13-43
 23            android:exported="false" />
-23-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:14:13-37
+23-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:14:13-37
 24        <activity
-24-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:15:9-17:40
+24-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:15:9-17:40
 25            android:name="com.example.app_grupo_6.RegisterActivity"
-25-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:16:13-45
+25-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:16:13-45
 26            android:exported="false" />
-26-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:17:13-37
+26-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:17:13-37
 27        <activity
-27-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:18:9-20:40
+27-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:18:9-20:40
 28            android:name="com.example.app_grupo_6.LoginActivity"
-28-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:19:13-42
+28-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:19:13-42
 29            android:exported="false" />
-29-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:20:13-37
+29-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:20:13-37
 30        <activity
-30-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:21:9-29:20
+30-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:21:9-29:20
 31            android:name="com.example.app_grupo_6.MainActivity"
-31-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:22:13-41
+31-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:22:13-41
 32            android:exported="true" >
-32-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:23:13-36
+32-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:23:13-36
 33            <intent-filter>
-33-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:24:13-28:29
+33-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:24:13-28:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:25:17-69
-34-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:25:25-66
+34-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:25:17-69
+34-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:25:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:27:17-77
-36-->C:\Users\blanc\Downloads\AppGrupo6\app\src\main\AndroidManifest.xml:27:27-74
+36-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:27:17-77
+36-->C:\Users\usuario\AndroidStudioProjects\AppGrupo6\app\src\main\AndroidManifest.xml:27:27-74
 37            </intent-filter>
 38        </activity>
 39    </application>

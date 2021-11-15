@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\blanc\\Downloads\\AppGrupo6\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "outputFile": "C:\\Users\\usuario\\AndroidStudioProjects\\AppGrupo6\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\blanc\\.gradle\\caches\\transforms-3\\f0bf25ca00dec516a3768217516e4371\\transformed\\appcompat-1.2.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\usuario\\AndroidStudioProjects\\caches\\transforms-3\\f0bf25ca00dec516a3768217516e4371\\transformed\\appcompat-1.2.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\blanc\\.gradle\\caches\\transforms-3\\86631be32ed4ff3a1eec9f2cf7c5ad6d\\transformed\\material-1.3.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\usuario\\AndroidStudioProjects\\caches\\transforms-3\\86631be32ed4ff3a1eec9f2cf7c5ad6d\\transformed\\material-1.3.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

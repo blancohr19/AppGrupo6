@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/gray"
     tools:context=".MainActivity">
 
 
@@ -34,6 +35,7 @@
             android:id="@+id/btn_login"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="OnLogin"
             android:text="@string/txt_btn_Login"
             android:textSize="20sp" />
 
@@ -42,6 +44,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/txt_btn_SignUp"
+            android:onClick="OnRegister"
             android:textSize="20sp" />
 
     </LinearLayout>
