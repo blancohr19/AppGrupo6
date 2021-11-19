@@ -18,5 +18,9 @@
     <string name="txt_sell">SELL</string>
     <string name="txt_buy">BUY</string>
     <string name="txt_ordes">MY ORDERS</string>
+    <string name="txt_product_name">Name</string>
+    <string name="txt_product_des">Description</string>
+    <string name="txt_product_price">Price</string>
+    <string name="txt_save">SAVE</string>
 
 </resources>

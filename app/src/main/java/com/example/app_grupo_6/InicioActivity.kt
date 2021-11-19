@@ -1,7 +1,9 @@
 package com.example.app_grupo_6
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 
 class InicioActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -14,4 +16,5 @@ class InicioActivity : AppCompatActivity() {
                 .commit()
         }
     }
+
 }

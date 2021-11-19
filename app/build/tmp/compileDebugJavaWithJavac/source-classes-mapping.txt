@@ -1,0 +1,14 @@
+com/example/app_grupo_6/room_database/ProductsDatabase_Impl.java
+ com.example.app_grupo_6.room_database.ProductsDatabase_Impl
+ com.example.app_grupo_6.room_database.ProductsDatabase_Impl$1
+com/example/app_grupo_6/BuildConfig.java
+ com.example.app_grupo_6.BuildConfig
+com/example/app_grupo_6/room_database/ProductsDAO_Impl.java
+ com.example.app_grupo_6.room_database.ProductsDAO_Impl
+ com.example.app_grupo_6.room_database.ProductsDAO_Impl$1
+ com.example.app_grupo_6.room_database.ProductsDAO_Impl$2
+ com.example.app_grupo_6.room_database.ProductsDAO_Impl$3
+ com.example.app_grupo_6.room_database.ProductsDAO_Impl$4
+ com.example.app_grupo_6.room_database.ProductsDAO_Impl$5
+ com.example.app_grupo_6.room_database.ProductsDAO_Impl$6
+ com.example.app_grupo_6.room_database.ProductsDAO_Impl$7

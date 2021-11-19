@@ -18,6 +18,10 @@
     <string name="txt_sell">VENDER</string>
     <string name="txt_buy">COMPRAR</string>
     <string name="txt_ordes">MIS PEDIDOS</string>
+    <string name="txt_product_name" >Nombre</string>
+    <string name="txt_product_des">Descripcion</string>
+    <string name="txt_product_price">Precio</string>
+    <string name="txt_save">GUARDAR</string>
 
 
 </resources>

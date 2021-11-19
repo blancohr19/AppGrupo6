@@ -22,12 +22,13 @@
             android:textSize="17sp"
             android:textColor="@color/black"
             android:text="@string/txt_sell"/>
+
         <Button
             android:id="@+id/btn_details1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text=">"/>
+            android:text=">" />
 
     </LinearLayout>
 

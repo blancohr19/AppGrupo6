@@ -44,59 +44,55 @@
         >
 
         <EditText
+            android:id="@+id/txtName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="15sp"
-            android:hint="@string/labelnombres"
             android:layout_marginTop="5dp"
-            android:id="@+id/txtName"
-            />
-
+            android:hint="@string/labelnombres"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
 
 
         <EditText
+            android:id="@+id/txtLastname"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="15sp"
             android:layout_marginTop="5dp"
             android:hint="@string/labelapellidos"
-            android:id="@+id/txtLastname"
-            />
-
+            android:textColor="@color/white"
+            android:textSize="15sp" />
 
 
         <EditText
+            android:id="@+id/txtNit"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="15sp"
             android:layout_marginTop="5dp"
             android:hint="@string/labelid"
             android:inputType="number"
-            android:id="@+id/txtNit"
-            />
-
+            android:textColor="@color/white"
+            android:textSize="15sp" />
 
 
         <EditText
+            android:id="@+id/txtEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="15sp"
             android:layout_marginTop="5dp"
             android:hint="@string/labelcorreo"
-            android:id="@+id/txtEmail"
-            />
-
+            android:textColor="@color/white"
+            android:textSize="15sp" />
 
 
         <EditText
+            android:id="@+id/txtPhone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="15sp"
             android:layout_marginTop="5dp"
             android:hint="@string/labeltelefono"
             android:inputType="number"
-            android:id="@+id/txtPhone"
-            />
+            android:textColor="@color/white"
+            android:textSize="15sp" />
 
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
